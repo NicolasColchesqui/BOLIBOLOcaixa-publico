@@ -1,0 +1,66 @@
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.AssemblyReference.cache
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.Form1.resources
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.Properties.Resources.resources
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.GenerateResource.cache
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.CoreCompileInputs.cache
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\BOLIBOLOcaixa.exe.config
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\BOLIBOLOcaixa.exe
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\BOLIBOLOcaixa.pdb
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.exe
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.pdb
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.Form2.resources
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\WhatsAppApi.dll
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.CopyComplete
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\EPPlus.Core.dll
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\EPPlus.dll
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\EPPlus.xml
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\EPPlus.Core.xml
+C:\Users\ncolc\source\repos\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\BOLIBOLOcaixa.exe.config
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\BOLIBOLOcaixa.exe
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\BOLIBOLOcaixa.pdb
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\EPPlus.Core.dll
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\EPPlus.dll
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\WhatsAppApi.dll
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\EPPlus.xml
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\EPPlus.Core.xml
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.AssemblyReference.cache
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.Form1.resources
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.Form2.resources
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.Properties.Resources.resources
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.GenerateResource.cache
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.CoreCompileInputs.cache
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.CopyComplete
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.exe
+C:\Users\ncolc\Downloads\ORGANIZAÇAO 1\DOWLOAD - 3 (TRABALHO - ESTUDOS)\BOLIBOLOcaixa\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.pdb
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\bin\Debug\BOLIBOLOcaixa.exe.config
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\bin\Debug\BOLIBOLOcaixa.exe
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\bin\Debug\BOLIBOLOcaixa.pdb
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\bin\Debug\EPPlus.Core.dll
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\bin\Debug\EPPlus.dll
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\bin\Debug\WhatsAppApi.dll
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\bin\Debug\EPPlus.xml
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\bin\Debug\EPPlus.Core.xml
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.AssemblyReference.cache
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.Form1.resources
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.Form2.resources
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.Properties.Resources.resources
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.GenerateResource.cache
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.CoreCompileInputs.cache
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.csproj.CopyComplete
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.exe
+C:\Users\ncolc\Downloads\BOLIBOLOcaixa-privado-main\BOLIBOLOcaixa\obj\Debug\BOLIBOLOcaixa.pdb
